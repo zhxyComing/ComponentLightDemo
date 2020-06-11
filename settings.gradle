@@ -1,0 +1,7 @@
+include ':basereader'
+include ':baseall'
+include ':reader'
+include ':login'
+include ':me'
+include ':app'
+rootProject.name = "ComponentStudy"
